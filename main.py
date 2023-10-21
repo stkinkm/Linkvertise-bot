@@ -34,7 +34,7 @@ sites=["https://direct-link.net/64899/youtube", "https://up-to-down.net/64899/ma
 "https://up-to-down.net/64899/5"]
 
 #-----------------------loop, don't touch-------------------------
-
+i = 0
 while i < 13:
 
     pyautogui.click(375, 53, duration=1, button='left')
